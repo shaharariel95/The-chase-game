@@ -1,6 +1,6 @@
 # The Chase Game
 
-This repository contains the code for a game inspired by the TV gameshow 'The Chase'. The game is implemented in Python and uses TCP for client-server communication. 
+This repository contains the code for a game inspired by the TV gameshow 'The Chase'. The game is implemented in Python and uses TCP for client-server communication and threading. 
 
 ## Files
 
